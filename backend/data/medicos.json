@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellido": "García",
+      "especialidad": "Cardiología",
+      "matricula": "12345"
+    },
+    {
+      "id": 2,
+      "nombre": "María",
+      "apellido": "López",
+      "especialidad": "Dermatología",
+      "matricula": "67890"
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos",
+      "apellido": "Martínez",
+      "especialidad": "Oftalmología",
+      "matricula": "54321"
+    },
+    {
+      "id": 4,
+      "nombre": "Ana",
+      "apellido": "Rodríguez",
+      "especialidad": "Pediatría",
+      "matricula": "98765"
+    },
+    {
+      "id": 5,
+      "nombre": "Luis",
+      "apellido": "Pérez",
+      "especialidad": "Ginecología",
+      "matricula": "13579"
+    },
+    {     
+      "id": 6,
+      "nombre": "Laura",
+      "apellido": "Fernández",
+      "especialidad": "Psiquiatría",
+      "matricula": "24680"
+    },
+    {
+      "id": 7,
+      "nombre": "Manuel",
+      "apellido": "González",
+      "especialidad": "Neurología",
+      "matricula": "86420"
+    },
+    {
+      "id": 8,
+      "nombre": "Isabel",
+      "apellido": "Ramírez",
+      "especialidad": "Endocrinología",
+      "matricula": "97531"
+    },
+    {
+      "id": 9,
+      "nombre": "Pedro",
+      "apellido": "Sánchez",
+      "especialidad": "Cirugía General",
+      "matricula": "73210"
+    },
+    {
+      "id": 10,
+      "nombre": "Elena",
+      "apellido": "Díaz",
+      "especialidad": "Medicina Interna",
+      "matricula": "51974"
+    }
+  ]
